@@ -36,16 +36,6 @@
 
 ---
 
-<details>
-
-
-</details>
-
-<details>
-
-
-
-</details>
 
 [linkedin]: https://linkedin.com/in/paulocearcs
 
