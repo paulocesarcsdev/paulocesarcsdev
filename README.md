@@ -60,6 +60,7 @@
 
 </details>
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/paulocearcs
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulocesarcsdev&show_icons=true&theme=radical)
