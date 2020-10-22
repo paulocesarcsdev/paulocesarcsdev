@@ -68,10 +68,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="paulocesarcsdev's GitHub Stats" src="https://github-readme-stats.paulocesarcsdev.vercel.app/api?username=paulocesarcsdev&show_icons=true&hide_border=true" />
 
 </details>
 
-[linkedin]: www.linkedin.com/in/paulocearcs
+[linkedin]: https://linkedin.com/in/codeSTACKr
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulocesarcsdev&show_icons=true&theme=radical)
