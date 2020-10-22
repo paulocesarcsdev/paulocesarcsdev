@@ -22,11 +22,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
 
 ➡️ 
 
@@ -42,15 +37,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened XXXX
-2. 🎉 Merged XXXX
-3. 💪 Opened XXXX
-4. 🎉 Merged XXXX
-5. 💪 Opened XXXX
-<!--END_SECTION:activity-->
+
 
 </details>
 
