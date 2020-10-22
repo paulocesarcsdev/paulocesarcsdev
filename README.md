@@ -74,5 +74,4 @@
 
 [linkedin]: www.linkedin.com/in/paulocearcs
 
-![paulocesarcsdev github stats](https://github-readme-stats.paulocesarcsdev.app/api?username=paulocesarcsdev&show_icons=true&theme=radical)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulocesarcsdev&show_icons=true&theme=radical)
