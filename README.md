@@ -11,14 +11,13 @@
 
 ## My Skills
 
-<a>
-<img align="center" height="30", width="40", src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-style="max-width:100%;">
-</a>
+<a <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="paulocesarcs_in1" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paulocearcs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paulocearcs" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/paulocesarcs_in1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="paulocesarcs_in1" height="30" width="40" /></a>
 </p>
 
