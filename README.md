@@ -14,7 +14,7 @@
 <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="paulocesarcs_in1" alt="paulocearcs" height="30" width="40" /></a>
 <a href="https://scikit-learn.org" target="blank"><img align="center" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="paulocesarcs_in1" height="30" width="40" /></a>
 <a href="https://numpy.org" target="blank"><img align="center" src="https://numpy.org/images/logos/numpy.svg" alt="paulocesarcs_in1" height="30" width="40" /></a>
-<a href="https://pandas.pydata.org" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/619-6191984_file-pandas-logo-svg-pandas-python-logo-svg.png" alt="paulocesarcs_in1" height="30" width="40" /></a>
+<a href="https://pandas.pydata.org" target="blank"><img align="center" src="https://sociaisemetodos.files.wordpress.com/2013/12/pandas_logo.png" alt="paulocesarcs_in1" height="30" width="40" /></a>
 
 
 
