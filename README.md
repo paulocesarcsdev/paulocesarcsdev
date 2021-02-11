@@ -13,6 +13,8 @@
 
 <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="paulocesarcs_in1" alt="paulocearcs" height="30" width="40" /></a>
 
+<a href="https://scikit-learn.org" target="blank"><img align="center" src="https://pt.wikipedia.org/wiki/Ficheiro:Scikit_learn_logo_small.svg" alt="paulocesarcs_in1" alt="paulocearcs" height="30" width="40" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
