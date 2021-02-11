@@ -13,7 +13,7 @@
 
 <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="paulocesarcs_in1" alt="paulocearcs" height="30" width="40" /></a>
 
-<a href="https://scikit-learn.org" target="blank"><img align="center" src="https://pt.wikipedia.org/wiki/Ficheiro:Scikit_learn_logo_small.svg" alt="paulocesarcs_in1" height="30" width="40" /></a>
+<a href="https://scikit-learn.org" target="blank"><img align="center" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="paulocesarcs_in1" height="30" width="40" /></a>
 </p>
 
 
