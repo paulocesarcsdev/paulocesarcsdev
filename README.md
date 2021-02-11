@@ -10,9 +10,8 @@
 - 📫 How to reach me **paulocesarcs.info@gmail.com**
 
 ## My Skills
-
 <a <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="paulocesarcs_in1" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
