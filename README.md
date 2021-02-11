@@ -15,7 +15,7 @@
 <a href="https://www.hackerrank.com/paulocesarcs_in1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="paulocesarcs_in1" height="30" width="40" /></a>
 </p>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulocesarcsdev&show_icons=true&locale=en" alt="paulocesarcsdev" /></p>
