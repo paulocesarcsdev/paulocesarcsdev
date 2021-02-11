@@ -15,7 +15,7 @@
 <a href="https://www.hackerrank.com/paulocesarcs_in1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="paulocesarcs_in1" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?paulocesarcsdev=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulocesarcsdev&show_icons=true&locale=en" alt="paulocesarcsdev" /></p>
