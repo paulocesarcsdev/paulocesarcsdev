@@ -17,7 +17,7 @@ def my_profile(pronouns, name_surname, description, education):
     
     name_surname = ["Paulo", "Silva"]
     
-    description = ["Optimistic", "Data_enthusiast", "Tech_enthusiast", "life_learning"]
+    description = ["Optimistic", "Data Science", "Tech_enthusiast", "life_learning"]
     
     education = {college : "Instituto Federal Goiano - Campus Morrinhos", year_start : 2018, year_end : 2022}  
 ```
