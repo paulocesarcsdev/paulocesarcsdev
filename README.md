@@ -50,7 +50,7 @@ ___
 ## PORTFOLIO PROJECTS ***(Under construction)***
 
 
-[Sales Prediction (Portuguese)] <br>
+[Sales Prediction English - In progress] <br>
 
 ![sales1](https://user-images.githubusercontent.com/46419374/142772248-ab333a7b-71f8-43f0-a0ff-10a569378890.jpg)
 
@@ -60,7 +60,7 @@ ___
 Com isso utilizaríamos algoritmos para realizar essa previsão para no fim gerarmos uma tabela contendo o lucro final previsto tanto no melhor como pior cenário.
 ___
 
-[Exploratory Data Analysis (EDA) (Portuguese)] <br>
+[Exploratory Data Analysis (EDA) English - In progress)] <br>
 
 ![exploration](https://user-images.githubusercontent.com/46419374/142772295-14daadd9-73e1-4e61-b524-cc4fc784b2f6.jpeg)
 
@@ -80,13 +80,13 @@ Once We analyse the data we'll use the Gain and Lift curve to drawn the scenario
 ___
 ## STUDY PROJECTS
 
-[Human Resources Regression Techniques] <br>
+[Human Resources Regression Techniques English - In progress] <br>
 
 **Project:** <br> In this project I did a model that predict the probability of an employee leave the company using logistic regression.
 
 ___
 
-[Customer Behavior Analysis Cluster Techniques] <br>
+[Customer Behavior Analysis Cluster Techniques English - In progress] <br>
 
 **Project:** <br> In this project I made a model that separate the clients in different groups using K-Means algotithm in order to give the marketing team a better understanding of our data.<br> 
 One ***product*** that we'll send is a ***link*** containing the ***group data*** that you can see in the ***link below:***<br>
