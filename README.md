@@ -9,7 +9,7 @@ Right now I'm studing Data Science and making projects to add in my portfolio.
 <h3> My purpose is to use data to help people and companies to make better decisions.</h3>
 
 <a href = "mailto:paulocesarcs.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https:/www.linkedin.com/in/paulocearcs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/paulocearcs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ```python
 def my_profile(pronouns, name_surname, description, education):
